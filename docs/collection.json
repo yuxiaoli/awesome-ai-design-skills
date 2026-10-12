@@ -1,0 +1,240 @@
+{
+  "defaultLocale": "en",
+  "title": {
+    "en": "Awesome AI Design Skills",
+    "zh-CN": "精选 AI 设计技能",
+    "zh-HK": "精選 AI 設計技能"
+  },
+  "description": {
+    "en": "Reusable design skills and instructions for AI agents, with design system references and workspaces for applying them to interfaces, animation, and editorial graphics.",
+    "zh-CN": "面向 AI 智能体的可复用设计技能与指引，涵盖界面、动画和刊物视觉设计，以及配套的设计系统参考与技能工作区。",
+    "zh-HK": "面向 AI 代理的可重用設計技能與指引，涵蓋介面、動畫及刊物視覺設計，以及配套的設計系統參考與技能工作區。"
+  },
+  "sections": [
+    {
+      "title": {
+        "en": "Interface Design and Review",
+        "zh-CN": "界面设计与评审",
+        "zh-HK": "介面設計與評審"
+      },
+      "description": {
+        "en": "Skills that guide AI agents in creating, reviewing, redesigning, or recreating web and app interfaces through explicit visual and interaction guidance.",
+        "zh-CN": "通过明确的视觉与交互指引，帮助 AI 智能体创建、评审、重新设计或重建网页及应用界面的技能。",
+        "zh-HK": "透過明確的視覺與互動指引，協助 AI 代理建立、評審、重新設計或重建網頁及應用程式介面的技能。"
+      },
+      "entries": [
+        {
+          "name": {
+            "en": "UI UX Pro Max",
+            "zh-CN": "UI UX Pro Max",
+            "zh-HK": "UI UX Pro Max"
+          },
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": {
+            "en": "AI design skill with searchable UI styles, color palettes, typography, UX guidance, and design system generation for coding assistants.",
+            "zh-CN": "为 AI 编程助手提供可检索的界面风格、配色、字体排版和用户体验指引，并支持生成设计系统。",
+            "zh-HK": "為 AI 編程助手提供可搜尋的介面風格、配色、字體排版及用戶體驗指引，並支援建立設計系統。"
+          }
+        },
+        {
+          "name": {
+            "en": "Claude Code Frontend Design",
+            "zh-CN": "Claude Code 前端设计",
+            "zh-HK": "Claude Code 前端設計"
+          },
+          "url": "https://github.com/anthropics/claude-code",
+          "description": {
+            "en": "Official frontend-design skill in the Claude Code repository, with guidance on visual direction, typography, layout, motion, and interface copy.",
+            "zh-CN": "Claude Code 仓库中的官方 frontend-design 技能，提供视觉方向、字体排版、布局、动效和界面文案指引。",
+            "zh-HK": "Claude Code 儲存庫中的官方 frontend-design 技能，提供視覺方向、字體排版、佈局、動效及介面文案指引。"
+          }
+        },
+        {
+          "name": {
+            "en": "Taste Skill",
+            "zh-CN": "Taste Skill",
+            "zh-HK": "Taste Skill"
+          },
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": {
+            "en": "Portable agent skills for frontend design, interface redesign, and visual references, covering layout, typography, motion, and spacing.",
+            "zh-CN": "可跨智能体使用的前端设计、界面重设计和视觉参考技能，涵盖布局、字体排版、动效与间距。",
+            "zh-HK": "可跨代理使用的前端設計、介面重新設計及視覺參考技能，涵蓋佈局、字體排版、動效與間距。"
+          }
+        },
+        {
+          "name": {
+            "en": "Impeccable",
+            "zh-CN": "Impeccable",
+            "zh-HK": "Impeccable"
+          },
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": {
+            "en": "Design skill and review commands for AI coding agents, with typography, layout, accessibility, and frontend quality guidance.",
+            "zh-CN": "面向 AI 编程智能体的设计技能与审查命令，提供字体排版、布局、无障碍和前端质量指引。",
+            "zh-HK": "面向 AI 編程代理的設計技能與檢視指令，提供字體排版、佈局、無障礙及前端品質指引。"
+          }
+        },
+        {
+          "name": {
+            "en": "AI Website Cloner Template",
+            "zh-CN": "AI Website Cloner Template",
+            "zh-HK": "AI Website Cloner Template"
+          },
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "description": {
+            "en": "Reusable clone-website skill and Next.js template for AI agents to inspect existing sites, rebuild their interfaces, and compare appearance and behavior.",
+            "zh-CN": "结合可复用的 clone-website 技能与 Next.js 模板，让 AI 智能体检查现有网站、重建界面，并对比外观与交互行为。",
+            "zh-HK": "結合可重用的 clone-website 技能與 Next.js 範本，讓 AI 代理檢查現有網站、重建介面，並比較外觀與互動行為。"
+          }
+        },
+        {
+          "name": {
+            "en": "Hallmark",
+            "zh-CN": "Hallmark",
+            "zh-HK": "Hallmark"
+          },
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": {
+            "en": "Design skill for Claude Code, Cursor, and Codex that creates, audits, and redesigns interfaces and extracts reusable visual guidance from references.",
+            "zh-CN": "面向 Claude Code、Cursor 和 Codex 的设计技能，支持创建、审查和重新设计界面，并从参考中提炼可复用的视觉指引。",
+            "zh-HK": "面向 Claude Code、Cursor 及 Codex 的設計技能，支援建立、檢視及重新設計介面，並從參考中提煉可重用的視覺指引。"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Design Workspaces and References",
+        "zh-CN": "设计工作区与参考",
+        "zh-HK": "設計工作區與參考"
+      },
+      "description": {
+        "en": "Workspaces and reusable design system references that help AI agents compose and apply design skills and visual rules.",
+        "zh-CN": "帮助 AI 智能体组合和应用设计技能与视觉规则的工作区，以及可复用的设计系统参考。",
+        "zh-HK": "協助 AI 代理組合及應用設計技能與視覺規則的工作區，以及可重用的設計系統參考。"
+      },
+      "entries": [
+        {
+          "name": {
+            "en": "OpenDesign",
+            "zh-CN": "OpenDesign",
+            "zh-HK": "OpenDesign"
+          },
+          "url": "https://github.com/nexu-io/open-design",
+          "description": {
+            "en": "Design workspace that combines reusable agent skills, rendering templates, and DESIGN.md design systems with AI coding agents.",
+            "zh-CN": "将可复用的智能体技能、渲染模板和 DESIGN.md 设计系统与 AI 编程智能体结合的设计工作区。",
+            "zh-HK": "將可重用的代理技能、渲染範本及 DESIGN.md 設計系統與 AI 編程代理結合的設計工作區。"
+          }
+        },
+        {
+          "name": {
+            "en": "Awesome DESIGN.md",
+            "zh-CN": "Awesome DESIGN.md",
+            "zh-HK": "Awesome DESIGN.md"
+          },
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": {
+            "en": "Curated DESIGN.md references that analyze website design systems, tokens, and visual rules for AI coding agents.",
+            "zh-CN": "供 AI 编程智能体使用的 DESIGN.md 参考集合，分析网站的设计系统、设计令牌和视觉规则。",
+            "zh-HK": "供 AI 編程代理使用的 DESIGN.md 參考集合，分析網站的設計系統、設計變數及視覺規則。"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Prototypes, Presentations, and Motion",
+        "zh-CN": "原型、演示与动效",
+        "zh-HK": "原型、簡報與動效"
+      },
+      "description": {
+        "en": "Agent skills for designing interactive prototypes, presentations, and animations, with reusable visual workflows and motion implementation guidance.",
+        "zh-CN": "面向交互原型、演示文稿和动画设计的智能体技能，提供可复用的视觉工作流程与动效实现指引。",
+        "zh-HK": "面向互動原型、簡報及動畫設計的代理技能，提供可重用的視覺工作流程與動效實作指引。"
+      },
+      "entries": [
+        {
+          "name": {
+            "en": "Huashu Design",
+            "zh-CN": "Huashu Design",
+            "zh-HK": "Huashu Design"
+          },
+          "url": "https://github.com/alchaincyf/huashu-design",
+          "description": {
+            "en": "Agent design skill for creating HTML prototypes, slide decks, animations, and infographics, with brand guidance, design review, and export tools.",
+            "zh-CN": "用于制作 HTML 原型、幻灯片、动画和信息图的智能体设计技能，包含品牌指引、设计评审和导出工具。",
+            "zh-HK": "用於製作 HTML 原型、簡報、動畫及資訊圖表的代理設計技能，包含品牌指引、設計評審及匯出工具。"
+          }
+        },
+        {
+          "name": {
+            "en": "GSAP AI Skills",
+            "zh-CN": "GSAP AI Skills",
+            "zh-HK": "GSAP AI Skills"
+          },
+          "url": "https://github.com/greensock/gsap-skills",
+          "description": {
+            "en": "Official GSAP skills that guide AI coding agents through animation APIs, timelines, scroll effects, plugins, framework integration, and performance.",
+            "zh-CN": "GSAP 官方技能，指导 AI 编程智能体使用动画 API、时间轴、滚动效果和插件，并处理框架集成与性能。",
+            "zh-HK": "GSAP 官方技能，指導 AI 編程代理使用動畫 API、時間軸、捲動效果及外掛，並處理框架整合與效能。"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Editorial and Poster Design",
+        "zh-CN": "刊物与海报设计",
+        "zh-HK": "刊物與海報設計"
+      },
+      "description": {
+        "en": "Codex skills that turn photographs, visual references, and briefs into editorial illustrations, collages, and posters using reusable composition and style guidance.",
+        "zh-CN": "运用可复用的构图与风格指引，将照片、视觉参考和设计需求转化为刊物插画、拼贴作品及海报的 Codex 技能。",
+        "zh-HK": "運用可重用的構圖與風格指引，將相片、視覺參考及設計需求轉化為刊物插畫、拼貼作品及海報的 Codex 技能。"
+      },
+      "entries": [
+        {
+          "name": {
+            "en": "Gathered Scenes Zine",
+            "zh-CN": "Gathered Scenes Zine",
+            "zh-HK": "Gathered Scenes Zine"
+          },
+          "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+          "description": {
+            "en": "Codex skills for turning photographs into paper collage posters or original editorial illustrations through composition, abstraction, color, texture, and typography.",
+            "zh-CN": "通过构图、抽象提炼、配色、纹理和字体排版，将照片转化为纸质拼贴海报或原创刊物插画的 Codex 技能。",
+            "zh-HK": "透過構圖、抽象提煉、配色、紋理及字體排版，將相片轉化為紙質拼貼海報或原創刊物插畫的 Codex 技能。"
+          }
+        },
+        {
+          "name": {
+            "en": "GC Minimal Zine Poster",
+            "zh-CN": "GC Minimal Zine Poster",
+            "zh-HK": "GC Minimal Zine Poster"
+          },
+          "url": "https://github.com/LiamGvchi/gc-minimal-zine-poster",
+          "description": {
+            "en": "Codex skill for creating minimal posters with paper textures, analyzing visual references, and producing reusable style rules and image generation prompts.",
+            "zh-CN": "用于制作纸张质感的极简海报、分析视觉参考，并生成可复用风格规则与图像生成提示词的 Codex 技能。",
+            "zh-HK": "用於製作紙張質感的極簡海報、分析視覺參考，並產生可重用風格規則與圖像生成提示詞的 Codex 技能。"
+          }
+        },
+        {
+          "name": {
+            "en": "Photo Abstract Editorial",
+            "zh-CN": "Photo Abstract Editorial",
+            "zh-HK": "Photo Abstract Editorial"
+          },
+          "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+          "description": {
+            "en": "Codex skill that pairs a preserved photograph with an abstract panel derived from it and a short English title to create a vertical editorial composition.",
+            "zh-CN": "将保留原貌的照片、从照片提炼的抽象画面与简短英文标题组合成竖版刊物式构图的 Codex 技能。",
+            "zh-HK": "將保留原貌的相片、從相片提煉的抽象畫面與簡短英文標題組合成直式刊物構圖的 Codex 技能。"
+          }
+        }
+      ]
+    }
+  ]
+}
